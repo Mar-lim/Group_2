@@ -44,11 +44,11 @@ def get_valid_joke_setup(max_attempts=3, timeout_seconds=5):
 
 def main():
     # The actual weather API key
-    openweathermap_api_key = '4bd8979f1e011f3be1dda4122e4a411c' # mod trigger
+    openweathermap_api_key = '4bd8979f1e011f3be1dda4122e4a411c' 
 
 
 # Converting the temperature from Kelvin to celsius
-    city = input("Enter the city for weather information: ")
+    city = input("Enter the city for weather information: ").capitalize() #returns the city name in proper 
     temperature_k = get_weather(openweathermap_api_key, city)
     temperature_c = temperature_k - 273.15
     print(f"\nCurrent temperature in {city}: {temperature_c} °C\n")
