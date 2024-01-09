@@ -10,3 +10,10 @@ def get_weather(api_key, city):
     response = requests.get(base_url, params=params)
     data = response.json()
     return data["main"]["temp"]
+
+def get_joke():
+    base_url = "https://v2.jokeapi.dev/joke/Any"
+    response = requests.get(base_url)
+    joke_data = response.json()
+    # get info from setup and display it.
+    return joke_data["setup"], joke_data["delivery"]
