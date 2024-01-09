@@ -54,7 +54,7 @@ def main():
     print(f"\nCurrent temperature in {city}: {temperature_c} °C\n")
 
 # prompt user to get their interest in hearing a joke after checking the weather
-    if temperature_c > 37:
+    if temperature_c > 25:
         print("Would you like to hear a joke to cool off?")
         resp = (input("Yes / No: ")).upper()
         if resp == "YES":
