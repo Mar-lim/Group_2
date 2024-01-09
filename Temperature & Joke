@@ -17,3 +17,7 @@ def get_joke():
     joke_data = response.json()
     # get info from setup and display it.
     return joke_data["setup"], joke_data["delivery"]
+
+def main():
+    # The actual weather API key
+    openweathermap_api_key = '4bd8979f1e011f3be1dda4122e4a411c' # mod trigger
