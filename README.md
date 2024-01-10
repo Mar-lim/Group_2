@@ -16,12 +16,12 @@ import time # python library to fetch current time
 
 # Collaborators and Assigned tasks
 - Mariam Alimi: Imported the modules, created the repository and followed up on every member of the team.
-- Mercy Consolate Akello: Sourced for the API’S and contributed to the comments
+- Mercy Consolate Akello: Sourced for the APIs and contributed to the comments
 - Promise Atiti: Made major modifications to the code and Commented on the code
 - Angela Nwankwo: Added the API of Open weather map
 - Blessing Ogar: Added the Joke API and defined the get Joke function
-- Ifunanya Egbuniwe : Updated the README file
-- Anuoluwapo Azeez : Added the code that converts Kelvin to Celsius
+- Ifunanya Egbuniwe : Worked on the README file
+- Anuoluwapo Azeez : Added the lines of code that converts the Weather temperature from Kelvin to Celsius
 
 # Conclusion
 This project combines weather conditions and jokes to serenade its users, ease their worries and of course put smiles on their faces as they go about their day to day activities. As we know, smiling eases stress and keeps wrinkles at bay. This was the major inspiration behind the Weather and Joke Integrated APIs, which was to enable users have fun while checking the weather!
