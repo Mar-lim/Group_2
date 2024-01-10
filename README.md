@@ -20,9 +20,8 @@ import time # python library to fetch current time
 - Promise Atiti: Made major modifications to the code and Commented on the code
 - Angela Nwankwo: Added the API of Open weather map
 - Blessing Ogar: Added the Joke API and defined the get Joke function
-- Chioma Idika : Contributed to the code
 - Ifunanya Egbuniwe : Updated the README file
-- Anuoluwapo Azeez : Contributed to the code
+- Anuoluwapo Azeez : Added the code that converts Kelvin to Celsius
 
 # Conclusion;
 This project combines weather conditions and jokes to serenade its users, ease their worries and of course put smiles on their faces as they go about their day to day activities. As we know smiling eases of your stress and keeps wrinkles at bay. Integrate the Weather and Joke API into your application to add a touch of humor to your users' weather experience
