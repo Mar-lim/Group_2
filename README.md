@@ -23,6 +23,6 @@ import time # python library to fetch current time
 - Ifunanya Egbuniwe : Updated the README file
 - Anuoluwapo Azeez : Added the code that converts Kelvin to Celsius
 
-# Conclusion;
+# Conclusion
 This project combines weather conditions and jokes to serenade its users, ease their worries and of course put smiles on their faces as they go about their day to day activities. As we know, smiling eases stress and keeps wrinkles at bay. This was the major inspiration behind the Weather and Joke Integrated APIs, which was to enable users have fun while checking the weather!
 
