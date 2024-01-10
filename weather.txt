@@ -1,0 +1,1 @@
+The current temperature at Mumbai is 29.99000000000001

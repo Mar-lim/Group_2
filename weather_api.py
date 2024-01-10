@@ -57,7 +57,7 @@ def main():
     location = city,
     temp = temperature_c
      )
-    with open('Temp_joke.txt', 'a') as text_file:
+    with open('weather.txt', 'a') as text_file:
       text_file.write(msg + '\n')
 
 # prompt user to get their interest in hearing a joke after checking the weather
