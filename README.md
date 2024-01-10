@@ -1,7 +1,7 @@
 # GROUP 2 PROJECT - WEATHER AND JOKE APIs
 # Project Overview:
-Welcome to the Weather and Joke Integrated! This API provides current weather data for various locations, allowing individuals to integrate real-time weather information into their applications and also help daily users plan their daily activities efficiently. We also integrated a Joke Api into the weather Api to enable users receive a delightful joke based on the weather conditions. Whether it's hot or cold, your users can have a good laugh to cool off or warm up.
-This integration combines 
+Welcome to the Weather and Joke Integrated APIs! This API provides current weather data for various locations, allowing individuals to integrate real-time weather information into their applications and also help daily users plan their daily activities efficiently. We also integrated a Joke Api into the weather Api to enable users receive a delightful joke based on the weather conditions. Whether it's hot or cold, your users can have a good laugh to cool off or warm up.
+This integration combines the following features.
 ## FEATURES
 *	Real-Time Weather Data: With a simple API call, you can fetch current weather conditions for any location on the planet. Whether you’re building a travel app, a fitness tracker, or a local events platform, having accurate and up-to-date weather information is a must.
 *	Productivity Tools: Add a “Joke” feature to the weather app to start users’ days with a smile, setting a positive tone for their tasks.
