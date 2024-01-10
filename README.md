@@ -15,7 +15,7 @@ import time # python library to fetch current time
 *	Follow the prompt: Enter the desired city and declare your interest to hear a joke
 
 # Collaborators and Assigned tasks
-- Mariam Alimi: Imported the modules, created the repository and followed up on every member of the team.
+- Mariam Alimi: Imported the modules, created the repository,added the code that prints the output into a text file and followed up on every member of the team.
 - Mercy Consolate Akello: Sourced for the APIs and contributed to the comments
 - Promise Atiti: Made major modifications to the code and Commented on the code
 - Angela Nwankwo: Added the API of Open weather map
