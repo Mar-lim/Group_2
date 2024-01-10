@@ -53,6 +53,13 @@ def main():
     temperature_c = temperature_k - 273.15
     print(f"\nCurrent temperature in {city}: {temperature_c} °C\n")
 
+    msg = "The current temperature at {location} is {temp}".format(
+    location = city,
+    temp = temperature_c
+     )
+    with open('Temp_joke.txt', 'a') as text_file:
+      text_file.write(msg + '\n')
+
 # prompt user to get their interest in hearing a joke after checking the weather
     if temperature_c > 25:
         print("Would you like to hear a joke to cool off?")
