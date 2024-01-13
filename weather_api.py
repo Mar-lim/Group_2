@@ -53,7 +53,7 @@ def main():
     temperature_c = temperature_k - 273.15
     print(f"\nCurrent temperature in {city}: {temperature_c} °C\n")
 
-    msg = "The current temperature at {location} is {temp}".format(
+    msg = "The current temperature at {location} is {temp} degrees celsius".format(
     location = city,
     temp = temperature_c
      )

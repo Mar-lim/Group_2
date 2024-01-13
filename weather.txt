@@ -1,1 +1,5 @@
 The current temperature at Mumbai is 29.99000000000001
+The current temperature at Lagos is 25.840000000000032°C
+The current temperature at Kuwait is 14.920000000000016 °C
+The current temperature at Cairo is 14.420000000000016 degrees(°C)
+The current temperature at Tokyo is 8.730000000000018 degrees celsius
